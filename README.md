@@ -1,4 +1,6 @@
 Power BI Nike Shoes Dashboard
+
+
 This project is an interactive Power BI dashboard that visualizes Nike shoes data. Users can click on a shoe image to explore key metrics, including:
 
 🧾 Average review count
